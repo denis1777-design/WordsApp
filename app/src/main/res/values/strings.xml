@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordsApp</string>
+    <string name="button_skip">Skip</string>
+    <string name="title_correct">You answer correct!</string>
+    <string name="title_nocorrect">You answer not correct!</string>
+    <string name="message_continue">Continue</string>
+</resources>

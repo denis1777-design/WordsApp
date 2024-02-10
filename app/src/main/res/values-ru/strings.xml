@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Приложение Слова</string>
+    <string name="button_skip">Закрыть</string>
+    <string name="title_correct">Вы ответили корректно!</string>
+    <string name="title_nocorrect">Вы ответили не корректно!</string>
+    <string name="message_continue">Продолжайте</string>
+</resources>
